@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="", 欧美音乐
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1776723012/ei/5E_mabCmHYqBkucPk_bdsQw/ip/172.184.213.161/id/36YnV9STBqc.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGLKmRR3p7zrL6ixpX2YsJwRJBboUklNXem7pIGTGcsee_9Y2Gf3Yh1OvV0w6e-tmdYKBABFcwkf/spc/jlWava2ouAQ9v9AvsnZxDlYw_hQbshfx0tPTsqT53j-w_9K51Na0l8GT2RzwkTCN5QOO9Q/vprv/1/go/1/ns/KHjGYguFNHpBdrKgwk_VSdMU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51869322/dover/11/n/Hp4YxhAvje8kCmA/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgWYmVHM3I7D1LHXAPIyYT1-6TCMC8emK_L3c1zga6lXkCIQCNEOWAubswiFaBIJEk3gdX_C99To5teOj1MJ7JR0hzcQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="香港" tvg-logo="" tvg-id="", 欧美音乐1
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
